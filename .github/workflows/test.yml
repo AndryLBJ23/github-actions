@@ -34,5 +34,6 @@ jobs:
         run: |
           echo Java version?
           java -version
+          echo
           echo Git Version?
           git --version
